@@ -1,0 +1,23 @@
+2022/02/16 16:08:54 Connect started
+2022/02/16 16:08:54 init connect  Successfully connected!
+2022/02/16 16:08:54 init finished
+2022/02/16 16:09:01 InsLogs started
+2022/02/16 16:09:01 InsLogs {"app":"MONITW","fname":"ViewSrvgrps","level":"info","msg":"q after select Srvgrps","reqID":"5a9f7bfb-def8-4f0c-ab48-ac45594c30b5","time":"2022-02-16T09:38:41+06:00","userID":"19"}
+2022/02/16 16:09:01 bef channels.Ch <- logs
+2022/02/16 16:09:57 Connect started
+2022/02/16 16:09:57 init connect  Successfully connected!
+2022/02/16 16:09:57 init finished
+2022/02/16 16:10:01 InsLogs started
+2022/02/16 16:10:01 InsLogs {"app":"MONITW","fname":"ViewSrvgrps","level":"info","msg":"q after select Srvgrps","reqID":"5a9f7bfb-def8-4f0c-ab48-ac45594c30b5","time":"2022-02-16T09:38:41+06:00","userID":"19"}
+2022/02/16 16:10:01 bef channels.Ch <- logs
+2022/02/16 16:12:52 Connect started
+2022/02/16 16:12:52 init connect  Successfully connected!
+2022/02/16 16:12:52 init finished
+2022/02/16 16:13:05 InsLogs started
+2022/02/16 16:13:05 InsLogs {"app":"MONITW","fname":"ViewSrvgrps","level":"info","msg":"qQQQ after select Srvgrps","reqID":"5a9f7bfb-def8-4f0c-ab48-ac45594c30b5","time":"2022-02-16T09:38:41+06:00","userID":"19"}
+2022/02/16 16:13:05 CreateInsert started
+2022/02/16 16:13:06 InsLogs aft insert commit
+2022/02/16 16:13:06 InsLogs finished
+2022/02/17 09:15:59 Connect started
+2022/02/17 09:15:59 init connect  Successfully connected!
+2022/02/17 09:15:59 init finished
